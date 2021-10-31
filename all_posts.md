@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Projects
 landing-title: 'Projects'
 nav-menu: true
