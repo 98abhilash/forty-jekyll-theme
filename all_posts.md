@@ -4,9 +4,9 @@ title: Projects
 landing-title: 'Projects'
 nav-menu: true
 description: "All Projects"
-image: null
+image: assets/images/pic11.jpg
 author: null
-show_tile: false
+show_tile: true
 ---
 
 <h1>All posts</h1>
