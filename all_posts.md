@@ -1,9 +1,9 @@
 ---
-layout: allposts
+layout: post
 title: Projects
 landing-title: 'Projects'
 nav-menu: true
-description: null
+description: "All Projects"
 image: null
 author: null
 show_tile: false
